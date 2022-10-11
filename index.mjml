@@ -1,0 +1,90 @@
+<mjml>
+    <mj-head>
+        <mj-title>Test</mj-title>
+        <mj-preview>Test</mj-preview>
+        <mj-font name="Poppins" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap" />
+        <mj-style>
+            
+        </mj-style>
+    </mj-head>
+    <mj-body width="600px" background-color="#F2F2F2">
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image width="300px" align="center" padding="38px 0 52px" src="img/logo.svg">
+            </mj-column>    
+        </mj-section>
+        <mj-section padding="0">
+                <mj-column>
+                        <mj-divider border-width="14px" border-style="solid" border-color="lightgrey"
+                        css-class="border"
+                        width="600px"
+                        border-color="#ffffff"
+                        padding="0">
+                </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF">
+                <mj-column>
+                    <mj-image width="300px" align="center" padding="100px 0 50px" src="img/illustration.svg">
+                </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="54px 54px 35px">
+            <mj-column>
+                <mj-text color="#333333" font-size="40px" line-height="120%" font-family="Montserrat" font-weight="900" padding="0">Network Detection And Response: Cloud Security’s Missing Link<mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="35px 54px 35px">
+            <mj-column>
+                <mj-text color="#333333" font-size="16px" line-height="120%" font-family="Montserrat" font-weight="400" padding="0">Complex configurations don't mix well with rapidly spun-up components, and when your company uses multiple cloud providers to host your critical assets, the odds of a major security event get that much higher.
+                <mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0 54px 35px">
+            <mj-column>
+                <mj-text color="#333333" font-size="16px" line-height="120%" font-family="Montserrat" font-weight="400" padding="0">So, how do you close visibility gaps and integrate conflicting datasets from different providers, and how do you adjust your current incident response strategies to respond to cloud-specific threats?
+                <mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0 54px 35px">
+            <mj-column>
+                <mj-text color="#333333" font-size="16px" line-height="120%" font-family="Montserrat" font-weight="400" padding="0">Read the report from SANS Instructor Dave Shackleford to learn how your peers across tech, finance, cybersecurity, and other industries address the following questions and more:
+                <mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0 54px 35px">
+            <mj-column>
+                <mj-text color="#333333" font-size="16px" line-height="120%" font-family="Montserrat" font-weight="400" padding="0">•	What's the most dangerous cloud security vulnerability that you might think is only hype?
+                <mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0 54px 35px">
+            <mj-column>
+                <mj-text color="#333333" font-size="16px" line-height="120%" font-family="Montserrat" font-weight="400" padding="0">•	What are the biggest challenges in adapting IR and forensics analysis to the cloud?
+                <mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0 54px 35px">
+            <mj-column>
+                <mj-text color="#333333" font-size="16px" line-height="120%" font-family="Montserrat" font-weight="400" padding="0">•	What are the most effective security controls for the cloud, and how can you avoid common implementation roadblocks?
+                <mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0 54px 35px">
+            <mj-column>
+                <mj-text color="#333333" font-size="16px" line-height="120%" font-family="Montserrat" font-weight="400" padding="0">•	What are the most effective security controls for the cloud, and how can you avoid common implementation roadblocks?
+                <mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="35px 54px 54px 54px" border-radius="0 0 14px 14px">
+            <mj-column>
+                <mj-button href="#" font-family="Montserrat" font-size="16px" background-color="#DD1E5C" padding="0" border-radius="100px" width="100%" height="43px" color="white">Download Now</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="42px 42px">
+            <mj-column>
+                <mj-text color="#333333" line-height="120%" font-size="16px" align="center" font-family="Montserrat" font-weight="400" padding="0">If you'd prefer not to receive future messages, you can <a style=color:#DD1E5C; href="#">unsubscribe</a> here.
+                424 Washington St, #35091, Brighton, MA 02135.
+                <mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
